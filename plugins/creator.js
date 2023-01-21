@@ -5,13 +5,13 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let _type = (args[0] || '').toLowerCase()
 
 //------- NOMOR
-  let nowner = `https://wa.me/${nomorown.split`@`[0]}`
+  let nowner = `https://wa.me/${081536907492.split`@`[0]}`
   let teksnomor = `${htki} *OWNER* ${htka}
-✦ https://wa.me/${nomorown.split`@`[0]} ✦
+✦ https://wa.me/${081536907492.split`@`[0]} ✦
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Biasakan sapa owner dengan benar dan bijak (p,bakalan gak di respon ma sekali)
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : PutraModz 
-${htjava} *✉️ Nama RL* : PUTRA
+${htjava} *💌 Nama* : Dian 
+${htjava} *✉️ Nama RL* : Dian
 ${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : PRIVATE
+${htjava} *🕋 Agama* : kristen
+${htjava} *⏰ Tanggal lahir* : 07 Agustus 2003
+${htjava} *🎨 Umur* : 19
 ${htjava} *🧮 Kelas* : PRIVATE
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Jawa Barat, Kuningan 
-${htjava} *❤️ Waifu* : Amelia Putri septiany
+${htjava} *🗺️ Tinggal* : Sumatera Utara, Medan 
+${htjava} *❤️ Waifu* : we solo nyink
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 •·––––––––––––––––––––––––––·•
@@ -40,7 +40,7 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
+	    {title: "📱 • 081536907492", Dian: ".081536907492"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	]
     },{
