@@ -30,29 +30,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/l4c1f2r'
 global.syt = 'https://youtu.be/ALQiRR1nzLI'
 global.sgh = 'https://github.com/Turu-bangun'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/6282214729677'
+global.sgc = 'https://chat.whatsapp.com/EyYi7h3RoWTEyaX1lvrZK1'
+global.swa = 'wa.me/6281536907492'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '085765680162'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa = '081536907492'
+global.ppulsa2 = '081536907492'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
+global.nomorbot = '6289654475622'
+global.nomorown = '6281536907492'
 global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nameown = 'Dian'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677', 'PutraModz', 'true']
+  ['6281536907492', 'Dian', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,15 +103,15 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraKeche'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm2 = 'Dian'
+global.wm3 = 'NexBotz | By Dian'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraKeche'
+global.author = 'Dian' 
+global.packname = 'Dian'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Agustus 07 2003'
 
 
 /*============== LOGO ==============*/
@@ -126,11 +126,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh PutraModz Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Putra'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nameowner = 'Dian'
+global.umurowner = '19'
+global.asalowner = 'Sumatera Utara, Medan'
+global.nomorowner = 'wa.me/6281536907492'
+global.pacarowner = 'We solo nyink'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'By NexBotz'
-global.stickauth = `Putra`
+global.stickauth = `Butuh siapa? Dian dia orangnya baik dan ramah,mau nomor wa nya? 081536907492`
 
 global.multiplier = 38 // The higher, The harder levelup
 
